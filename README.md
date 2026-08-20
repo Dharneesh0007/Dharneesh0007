@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Dharneesh B! 👋
 
-<!--
-**Dharneesh0007/Dharneesh0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student at **Meenakshi Sundararajan Engineering College**, passionate about full-stack web development, software engineering, and solving algorithmic challenges.
 
-Here are some ideas to get you started:
+- 🎓 Undergoing intensive tech training at **NxtWave CCBP 4.0 Academy**, mastering modern web development.
+- 💻 Currently building full-stack web applications using **Python & Flask**.
+- 🚀 Actively practicing DSA and problem-solving on **LeetCode**.
+- 🔧 Exploring modern frontend designs with Bootstrap, HTML, CSS, and JS.
+- 🌱 Continuously learning and building in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+**Languages:** Python, JavaScript, HTML5, CSS3  
+**Frameworks/Databases:** Flask, Bootstrap, SQLite, SQLAlchemy  
+**Tools:** Git, GitHub, VS Code, Render
+
+### 📈 GitHub Stats
+![Dharneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharneesh0007&show_icons=true&theme=radium)
+
+📫 **Let's Connect!**
+- [LinkedIn](https://www.linkedin.com/in/dharneesh-b)
+- [LeetCode](https://leetcode.com/u/_Dharneesh_/)
